@@ -31,3 +31,8 @@ In 4711 AR, Ameiko and a group of adventurers discovered a document that indicat
 > Ameiko has artfully dodged several advances from potential suitors, which is the genesis of a rumor that she has a secret lover.
 > She is unafraid to use what magic she has at her disposal around her establishment.
 > She has been known to use spells like unseen servant, charm person, and cure light wounds to keep her place running in tip-top shape.
+
+
+<img src="https://pathfinderwiki.com/mediawiki/images/0/03/Ameiko.jpg"/>
+
+>This website uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Inc. and Paizo products, please visit paizo.com.
