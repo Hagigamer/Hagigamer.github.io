@@ -3,6 +3,13 @@
 
 Ameiko Kaijitsu is best known in the Varisian town of Sandpoint as the proprietor of the Rusty Dragon, the most popular tavern in town she is also a member of the town's small aristocracy.
 
+## Character Traits
+
+* friendly
+* open-minded
+* hears all, sees all
+* loyal
+
 Ameiko was born in 4689 AR. Lonjiku closely supervised her, controlled whom he allowed to be her friends, and filled her days with lessons in music, diplomacy, magic, and academic subjects. Despite this, she still sneaked into town to play with friends and explore old buildings. Ameiko was the only person who visited Tsuto in the Turandarok Academy, as Lonjiku ostracised him due to his status as a half-elf (and open proof of Atsuii's infidelity).
 
 Tsuto's influence on Ameiko was notable, despite his nearly total absence from her everyday life. In 4701 AR, when Ameiko tried to reconcile her father and brother, Tsuto struck her in a fit of rage, prompting her abandonment of Sandpoint for a year of adventuring.
