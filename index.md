@@ -3,12 +3,6 @@
 
 Ameiko Kaijitsu is best known in the Varisian town of Sandpoint as the proprietor of the Rusty Dragon, the most popular tavern in town she is also a member of the town's small aristocracy.
 
-## Character Traits
-
-* friendly
-* open-minded
-* hears all, sees all
-* loyal
 
 Ameiko was born in 4689 AR. Lonjiku closely supervised her, controlled whom he allowed to be her friends, and filled her days with lessons in music, diplomacy, magic, and academic subjects. Despite this, she still sneaked into town to play with friends and explore old buildings. Ameiko was the only person who visited Tsuto in the Turandarok Academy, as Lonjiku ostracised him due to his status as a half-elf (and open proof of Atsuii's infidelity).
 
@@ -23,3 +17,17 @@ Some months later, Ameiko got a snake tattoo as a memorial to Alder, and spent h
 In 4707 AR, Ameiko lost both her father and half-brother during a series of goblin raids on Sandpoint. She inherited the Sandpoint Glassworks, but closed it down, as she prefered to focus on the Rusty Dragon and was frustrated by the rumours that the Glassworks were haunted by the ghosts of the goblins' victims.
 
 In 4711 AR, Ameiko and a group of adventurers discovered a document that indicated a great Kaijitsu family legacy lay hidden in Brinewall. In Brinewall, they recovered the Amatatsu Seal, and learnt about the history of Ameiko's family: her real surname is Amatatsu, and she is the last surviving rightful heir to Minkai's throne after the usurper Soto Takahiro murdered Emperor Higashiyama Shigure. After recovering her family sword Suishen in Kalsgard, they embarked on a journey from Avistan through the Crown of the World and the Forest of Spirits to Minkai to help Ameiko reclaim her birthright. After earning the support of Minkai's populace and the blessing of the previous emperors, Ameiko presented herself as the rightful ruler of Minkai, and was accepted by the Jade Throne after the defeat of the Jade Regent and his cronies.
+
+
+## Character Traits
+
+* friendly
+* open-minded
+* hears all, sees all
+* loyal
+
+### Personality
+
+> Ameiko has artfully dodged several advances from potential suitors, which is the genesis of a rumor that she has a secret lover.
+> She is unafraid to use what magic she has at her disposal around her establishment.
+> She has been known to use spells like unseen servant, charm person, and cure light wounds to keep her place running in tip-top shape.
